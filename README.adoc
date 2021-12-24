@@ -191,7 +191,7 @@ https://opencollective.com/friends-of-groovy
 
 This initiative is designed to complement the Apache project and the many contributions we get from our great community and supporters.
 
-* Thank you to our Silver Sponsors:
+* Thank you to our Silver Sponsors: Hi
 
 image:{sponsors-silver-img}[]
 
